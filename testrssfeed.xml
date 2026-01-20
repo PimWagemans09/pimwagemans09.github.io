@@ -1,0 +1,15 @@
+<rss version="2.0">
+    <channel>
+        <title>Test RSS feed</title>
+        <link>example.com</link>
+        <description>A really cool channel to test an rss viewer</description>
+        <item>
+            <title>A cool item</title>
+            <description>A really cool description for this test item that contains some jokes i just want to test if linewrapping is working</description>
+        </item>
+        <item>
+            <title>A cool item 2: electric boogaloo</title>
+            <description>A shorter description for this second test item</description>
+        </item>
+    </channel>
+</rss>
